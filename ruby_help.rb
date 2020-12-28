@@ -1,1 +1,0 @@
-puts "","places and spaces",""
