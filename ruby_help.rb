@@ -1,1 +1,1 @@
-puts "places and spaces"
+puts "","places and spaces",""
